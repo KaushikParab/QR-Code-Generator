@@ -1,3 +1,4 @@
+//It's a base link to use this api
 // const URL="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example";
 
 const input = document.querySelector(".inp");
@@ -13,4 +14,3 @@ const process = () => {
 let x=input.value;
 console.log(x);
 button.addEventListener("click", process);
-
