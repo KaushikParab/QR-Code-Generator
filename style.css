@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #1e3c72, #2a5298);;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
     font-family: 'Poppins', sans-serif;
 }
 .main {
@@ -31,8 +31,6 @@ body {
 .input {
     height: 10vh;
     width: 25vw;
-    /* display: flex; */
-    
 }
 .inp{
     border-radius: 8px; 
@@ -73,8 +71,6 @@ body {
     transition: 0.4s;
 }
 
-
-
 .display{
     margin-top: 15px;
     height: 25vh;
@@ -87,6 +83,5 @@ body {
     height: 20vh;
     width: 10vw;
     visibility: hidden;
-    border-radius: 5px;
-    
+    border-radius: 5px; 
 }
